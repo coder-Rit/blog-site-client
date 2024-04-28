@@ -1,4 +1,4 @@
-const API_URI = "https://blog-dashbord.onrender.com";
+const API_URI = "https://blog-dashbord-0777.onrender.com";
 
 function renderFirst10Words(str, stock) {
   // Split the string into an array of words
